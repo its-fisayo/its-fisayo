@@ -12,7 +12,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get build a passener counter app from scratch](https://github.com/its-fisayo/Passenger-counter)
+- [How to get build a passenger counter app from scratch](https://github.com/its-fisayo/Passenger-counter)
 
 <h2> 🤳 Connect with me:</h2>
 
